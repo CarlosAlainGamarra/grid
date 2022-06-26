@@ -1,5 +1,8 @@
 # grid
 this is a grid layout example for own purposes
+-css grid
+-Responsive design
+
 
 project url: https://cgprojectsgrid.web.app/
 

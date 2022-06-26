@@ -1,6 +1,6 @@
 # grid
 this is a grid layout example for own purposes
-In this project: Css grid/ responsive desing
+(In this project: Css grid/ responsive desing)
 project url: https://cgprojectsgrid.web.app/
 
   En este proyecto se ha aplicado la herramienta Grid en CSS para mostrar en pantalla una colección de imágenes.
